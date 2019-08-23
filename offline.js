@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1566563298,
+	"version": 1566564984,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -13,6 +13,7 @@
 		"images/p2_skin-sheet0.png",
 		"images/scroll_dot-sheet0.png",
 		"images/p1_bar-sheet0.png",
+		"images/p2_bar-sheet0.png",
 		"images/blood-sheet0.png",
 		"images/blood-sheet1.png",
 		"images/blood-sheet2.png",
